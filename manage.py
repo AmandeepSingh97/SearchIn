@@ -2,7 +2,7 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
-
+# .\venv\Scripts\activate.bat for activate venv
 
 def main():
     """Run administrative tasks."""
